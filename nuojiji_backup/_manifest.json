@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1783747540910,
+  "timestamp": 1783747549296,
   "appVersion": "auto-backup",
   "tables": [
     "characters",
@@ -70,7 +70,8 @@
     "kaomojis": true,
     "users": true,
     "userState": true,
-    "callLogs": true
+    "callLogs": true,
+    "roleStickers": true
   },
   "source": "auto",
   "inProgress": true

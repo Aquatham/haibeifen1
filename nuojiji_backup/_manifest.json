@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1784031774251,
+  "timestamp": 1784031781115,
   "appVersion": "auto-backup",
   "tables": [
     "characters",
@@ -127,7 +127,8 @@
     "homelandState": true,
     "fontStore": true,
     "customBgm": true,
-    "radioData": true
+    "radioData": true,
+    "isekaiPresets": true
   },
   "source": "auto",
   "inProgress": true

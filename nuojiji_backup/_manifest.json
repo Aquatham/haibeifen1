@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1784457896525,
+  "timestamp": 1784457902778,
   "appVersion": "auto-backup",
   "tables": [
     "characters",
@@ -121,7 +121,8 @@
     "thinkingStore": true,
     "commitments": true,
     "characterLifeState": true,
-    "healthEntries": true
+    "healthEntries": true,
+    "healthProfile": true
   },
   "source": "auto",
   "inProgress": true

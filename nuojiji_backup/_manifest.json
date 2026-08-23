@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1787501291009,
+  "timestamp": 1787501411895,
   "appVersion": "auto-backup",
   "tables": [
     "characters",
@@ -80,31 +80,6 @@
     "charLifePlans",
     "_migration"
   ],
-  "chunkedTables": {
-    "stickers": 7
-  },
-  "completedTables": {
-    "characters": true,
-    "friendRequests": true,
-    "worldBooks": true,
-    "kaomojis": true,
-    "users": true,
-    "userState": true,
-    "userPosts": true,
-    "chatSettings": true,
-    "messages": true,
-    "favorites": true,
-    "memory": true,
-    "summaryEntries": true,
-    "callLogs": true,
-    "roleStickers": true,
-    "tmSessions": true,
-    "tmStories": true,
-    "multiSceneSessions": true,
-    "multiSceneStories": true,
-    "multiSceneCastSettings": true,
-    "multiSceneSessionSettings": true
-  },
   "source": "auto",
   "inProgress": true
 }

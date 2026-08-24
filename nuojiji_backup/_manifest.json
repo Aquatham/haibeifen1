@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1787501779528,
+  "timestamp": 1787579691296,
   "appVersion": "auto-backup",
   "tables": [
     "characters",
@@ -51,6 +51,7 @@
     "customWidgetTemplates",
     "customWidgetState",
     "wallpapers",
+    "lifeRpgData",
     "whiteDogData",
     "isekaiSaves",
     "isekaiPresets",
@@ -77,17 +78,13 @@
     "shopOrders",
     "shopData",
     "shopFulfillments",
+    "chatVariables",
+    "plugins",
+    "pluginAssets",
+    "pluginData",
     "charLifePlans",
     "_migration"
   ],
-  "chunkedTables": {
-    "stickers": 20
-  },
-  "completedTables": {
-    "characters": true,
-    "friendRequests": true,
-    "worldBooks": true
-  },
   "source": "auto",
   "inProgress": true
 }
